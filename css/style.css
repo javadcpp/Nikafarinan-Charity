@@ -1,0 +1,27 @@
+/* CSS Document */
+.contact {
+border:1px solid #B8B8B8;
+width:90%;
+height:162px;
+margin-top:70px;
+border-radius:3px;
+	
+}
+.contact .menu-bar a{
+		display:block;
+			padding:10px;
+			text-decoration:none;
+}
+.menu-bar .tablink{
+	height:40px;
+
+}
+.menu-bar{
+	float:right;
+	width:100px;
+	height:100%;
+	background-color:#BCBCBC;
+}
+.tablink:hover{
+	background-color:#FF4649;
+}
