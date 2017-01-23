@@ -29,6 +29,7 @@
                  <a href="Javascript:void(0)" class="tablink" onclick="openLink(event,'fade')" >معرفی موسسه</a>
                   <a href="Javascript:void(0)" class="tablink" onclick="openLink(event,'fade')" >معرفی موسسه</a>
                    <a href="Javascript:void(0)" class="tablink" onclick="openLink(event,'fade')" >معرفی موسسه</a>
+                   
                 </div>
             	</div>
                 </center>
