@@ -31,6 +31,7 @@
              <center>			 
         		<div class="contact" style="display:none;">
             	<div class="menu-bar">
+<<<<<<< HEAD
                 <a href="Javascript:void(0)" class="tablink1 titr"  >درباره ما</a>
                  <a href="Javascript:void(0)" class="tablink2 titr"  >معرفی موسسه</a>
                   <a href="Javascript:void(0)" class="tablink3 titr"  >معرفی موسسه</a>
@@ -77,6 +78,13 @@
                     
                 });
 				   </script>
+=======
+                <a href="Javascript:void(0)" class="tablink" onclick="openLink(event,'fade')" >معرفی موسسه</a>
+                 <a href="Javascript:void(0)" class="tablink" onclick="openLink(event,'fade')" >معرفی موسسه</a>
+                  <a href="Javascript:void(0)" class="tablink" onclick="openLink(event,'fade')" >معرفی موسسه</a>
+                   <a href="Javascript:void(0)" class="tablink" onclick="openLink(event,'fade')" >معرفی موسسه</a>
+                   
+>>>>>>> origin/master
                 </div>
                 <div class="content">
                                 <div id="fade1" class="dec" style="display:none;"> <p>
