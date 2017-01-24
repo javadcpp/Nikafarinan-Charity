@@ -20,8 +20,15 @@ border-radius:3px;
 	float:right;
 	width:100px;
 	height:100%;
-	background-color:#BCBCBC;
+	background-color:#B3E5FC;
 }
-.tablink:hover{
-	background-color:#FF4649;
+.titr:hover{
+	background-color:#03A9F4;
+}
+.content {
+	overflow:auto;	
+}
+.dec {
+	float:left;
+	padding:8px;
 }
